@@ -1,5 +1,7 @@
 # Файлы окружения
 .env
+.venv/
+/temp_music
 venv/
 env/
 ENV/
